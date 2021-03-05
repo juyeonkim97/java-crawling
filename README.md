@@ -1,1 +1,1 @@
-# java_crawling
+# jsoup 라이브러리를 이용한 네이버 블로그 크롤링
